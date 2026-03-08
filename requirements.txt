@@ -1,7 +1,7 @@
 streamlit
 pandas
 GoogleNews
-deep-translator
+deep_translator
 transformers
 torch
 yfinance
